@@ -39,7 +39,7 @@ h1 {
   bottom: -10rem;
   left: 50%;
   translate: -50%;
-  transition: transform 3s;
+  transition: transform ease-in-out 3s;
 }
 
 .imgFloat:hover {
